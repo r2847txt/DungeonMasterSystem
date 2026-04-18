@@ -1,5 +1,4 @@
-# DungeeonMasterSystem (DMS-dev)
-
+# DMS - Dungeon Master System
 ## 🎲 Descripción
 DungeeonMasterSystem es una aplicación multiplataforma diseñada para facilitar partidas de rol en línea.  
 El objetivo es que el Dungeon Master (DM) pueda dirigir la sesión desde un notebook, mientras los jugadores se conectan desde sus teléfonos o navegadores web.
